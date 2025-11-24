@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "CustomAPI.Controllers.EmployeeController",
+    "Method": "DeleteEmpt",
+    "RelativePath": "api/emp/DeleteEmp/{empID}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empID",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomAPI.Controllers.EmployeeController",
+    "Method": "GetAll",
+    "RelativePath": "api/emp/EmpList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomAPI.Controllers.EmployeeController",
+    "Method": "GenerateEmpID",
+    "RelativePath": "api/emp/GenerateID",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomAPI.Controllers.EmployeeController",
+    "Method": "SaveEntry",
+    "RelativePath": "api/emp/SaveEmp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "CustomAPI.Models.EmployeeModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomAPI.Controllers.EmployeeController",
+    "Method": "SaveEdit",
+    "RelativePath": "api/emp/SaveEmpEdit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "CustomAPI.Models.EmployeeModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

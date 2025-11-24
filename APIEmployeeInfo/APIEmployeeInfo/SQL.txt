@@ -1,0 +1,11 @@
+﻿CREATE TABLE EMPLOYEE (
+	empID NVARCHAR(100),
+	empFName NVARCHAR(50),
+	empMName NVARCHAR(50),
+	empLName NVARCHAR(50),
+	empAdd NVARCHAR(50),
+	empAge INTEGER,
+	empGender NVARCHAR(1)
+
+	PRIMARY KEY (empID)
+)

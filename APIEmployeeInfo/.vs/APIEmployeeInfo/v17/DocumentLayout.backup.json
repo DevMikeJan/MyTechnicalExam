@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|c:\\users\\shely\\mypersonalfiles\\projects\\csharp\\apiemployeeinfo\\apiemployeeinfo\\app\\presenters\\employeepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|solutionrelative:apiemployeeinfo\\app\\presenters\\employeepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\apiemployeeinfo\\app\\views\\employeeviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|solutionrelative:apiemployeeinfo\\app\\views\\employeeviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\apiemployeeinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|solutionrelative:apiemployeeinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\apiemployeeinfo\\app\\views\\employeeviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|solutionrelative:apiemployeeinfo\\app\\views\\employeeviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\apiemployeeinfo\\public\\customenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|solutionrelative:apiemployeeinfo\\public\\customenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\apiemployeeinfo\\public\\customfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|solutionrelative:apiemployeeinfo\\public\\customfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\apiemployeeinfo\\app\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|solutionrelative:apiemployeeinfo\\app\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\apiemployeeinfo\\app\\models\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|solutionrelative:apiemployeeinfo\\app\\models\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\apiemployeeinfo\\app\\views\\iemployeeviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|solutionrelative:apiemployeeinfo\\app\\views\\iemployeeviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\apiemployeeinfo\\app\\views\\employeeviews.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|solutionrelative:apiemployeeinfo\\app\\views\\employeeviews.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\apiemployeeinfo\\app\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2176F392-E463-4CDB-B141-A64231E63613}|APIEmployeeInfo\\APIEmployeeInfo.csproj|solutionrelative:apiemployeeinfo\\app\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|APIEmployeeInfo||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\Public\\CustomFunctions.cs",
+              "RelativeDocumentMoniker": "APIEmployeeInfo\\Public\\CustomFunctions.cs",
+              "ToolTip": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\Public\\CustomFunctions.cs",
+              "RelativeToolTip": "APIEmployeeInfo\\Public\\CustomFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:38:41.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeViews.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Views\\EmployeeViews.Designer.cs",
+              "RelativeDocumentMoniker": "APIEmployeeInfo\\App\\Views\\EmployeeViews.Designer.cs",
+              "ToolTip": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Views\\EmployeeViews.Designer.cs",
+              "RelativeToolTip": "APIEmployeeInfo\\App\\Views\\EmployeeViews.Designer.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAtwBUBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:38:35.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeViews.cs",
+              "DocumentMoniker": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Views\\IEmployeeViews.cs",
+              "RelativeDocumentMoniker": "APIEmployeeInfo\\App\\Views\\IEmployeeViews.cs",
+              "ToolTip": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Views\\IEmployeeViews.cs",
+              "RelativeToolTip": "APIEmployeeInfo\\App\\Views\\IEmployeeViews.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA7wCcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T05:09:37.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeePresenter.cs",
+              "DocumentMoniker": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Presenters\\EmployeePresenter.cs",
+              "RelativeDocumentMoniker": "APIEmployeeInfo\\App\\Presenters\\EmployeePresenter.cs",
+              "ToolTip": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Presenters\\EmployeePresenter.cs",
+              "RelativeToolTip": "APIEmployeeInfo\\App\\Presenters\\EmployeePresenter.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAvwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T05:10:50.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\Program.cs",
+              "RelativeDocumentMoniker": "APIEmployeeInfo\\Program.cs",
+              "ToolTip": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\Program.cs",
+              "RelativeToolTip": "APIEmployeeInfo\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T04:23:19.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeViews.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Views\\EmployeeViews.cs",
+              "RelativeDocumentMoniker": "APIEmployeeInfo\\App\\Views\\EmployeeViews.cs",
+              "ToolTip": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Views\\EmployeeViews.cs [Design]",
+              "RelativeToolTip": "APIEmployeeInfo\\App\\Views\\EmployeeViews.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T04:23:08.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Models\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "APIEmployeeInfo\\App\\Models\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Models\\IEmployeeRepository.cs",
+              "RelativeToolTip": "APIEmployeeInfo\\App\\Models\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T05:10:19.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomEnums.cs",
+              "DocumentMoniker": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\Public\\CustomEnums.cs",
+              "RelativeDocumentMoniker": "APIEmployeeInfo\\Public\\CustomEnums.cs",
+              "ToolTip": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\Public\\CustomEnums.cs",
+              "RelativeToolTip": "APIEmployeeInfo\\Public\\CustomEnums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T08:52:48.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeViews.cs",
+              "DocumentMoniker": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Views\\EmployeeViews.cs",
+              "RelativeDocumentMoniker": "APIEmployeeInfo\\App\\Views\\EmployeeViews.cs",
+              "ToolTip": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Views\\EmployeeViews.cs",
+              "RelativeToolTip": "APIEmployeeInfo\\App\\Views\\EmployeeViews.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwHcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T05:12:02.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "APIEmployeeInfo\\App\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "APIEmployeeInfo\\App\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T05:10:00.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "APIEmployeeInfo\\App\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\App\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "APIEmployeeInfo\\App\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T04:48:15.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "APIEmployeeInfo",
+              "DocumentMoniker": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\APIEmployeeInfo.csproj",
+              "RelativeDocumentMoniker": "APIEmployeeInfo\\APIEmployeeInfo.csproj",
+              "ToolTip": "C:\\Users\\shely\\MyPersonalFiles\\Projects\\CSharp\\APIEmployeeInfo\\APIEmployeeInfo\\APIEmployeeInfo.csproj",
+              "RelativeToolTip": "APIEmployeeInfo\\APIEmployeeInfo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-24T04:55:38.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
