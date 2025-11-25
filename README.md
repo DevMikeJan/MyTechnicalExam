@@ -16,8 +16,12 @@ Before Running
 
 	            PRIMARY KEY (empID)
     )
+	
 
 Steps to Run
   1.Run the CustomAPI project first.
     *This must be running because EmployeeInfo depends on it.
+	In this Solution Navigate to EmployeeController.cs
+	Add the server, database, ID and password name you created in the connection string
+	
   2.After the API is running, start the EmployeeInfo project.
